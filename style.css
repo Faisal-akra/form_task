@@ -1,0 +1,74 @@
+
+
+.main{
+
+    border: 1px solid black;
+    width: 500px;
+    height: 750px;  
+    font-size: medium;
+    /* margin-left: auto; */
+    margin-left: 800px;
+}
+.center{
+    margin-left: 50px;
+   
+}
+
+#tp{
+    width: 300px;
+    height: 35px;
+}
+
+#a{
+    padding: 50px;
+}
+
+
+#l{
+    margin-right: 300px;
+    
+}
+
+
+
+
+
+#check{
+    margin-left: 50px;
+    align-self: self-start;
+    display: inline-block;
+}
+
+#Remember{
+    margin-left: 2px;
+    margin-bottom: 105px;
+    display: inline-block;
+}
+
+#forget{
+    display: inline-block;
+    margin-left: 60px;
+}
+
+
+
+#login{
+    background-color: rgb(92, 12, 168);
+    width: 300px;
+    height: 45px;
+    margin-left: 60px;
+    /* margin-bottom: 500px; */
+    display: inline-block;
+    color: white;
+    
+}
+
+#last{
+    display: inline-block;
+    margin-top: 45px;
+    margin-left: 60px;
+}
+
+p{
+    color: rgb(169, 158, 143);
+}
