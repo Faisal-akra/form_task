@@ -1,4 +1,31 @@
+body{
+    display: flex;
+    
+}
+.main_bara{
 
+}
+
+#Welcome{
+    margin-left: 250px;
+    margin-right: 500px;
+    display: inline-block;
+    position: relative;
+    margin-top: 200px;
+    font-size: xx-large;
+    margin-bottom: 50px;
+    color: rgb(167, 160, 160);
+}
+
+#img{
+   display: inline-block;
+   background-color: red;
+   margin-left: 200px;
+   z-index: -1px;
+   position: absolute;
+   width: 600px;
+   
+}
 
 .main{
 
@@ -6,8 +33,10 @@
     width: 500px;
     height: 750px;  
     font-size: medium;
-    /* margin-left: auto; */
     margin-left: 800px;
+    display: inline-block;
+    margin-bottom: 500px;
+    position: absolute;
 }
 .center{
     margin-left: 50px;
